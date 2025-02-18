@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-**Nome do aluno:**
-[SEU NOME]
-
 **Link do repositório:**
 [COLE O LINK AQUI]
 
