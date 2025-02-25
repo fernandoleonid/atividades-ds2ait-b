@@ -5,3 +5,5 @@
 3. Cards
 4. Dog (https://dog.ceo/dog-api/)
 5. Galeria imagens (https://picsum.photos/)
+6. Consumo de API - FIGMA
+7. Consumo de API - Repositório
