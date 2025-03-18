@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Link do repositório:**
-[COLE O LINK AQUI]
+COLE O LINK AQUI
 
 **Dificuldades encontradas:**
-[Comente brevemente]
+Comente brevemente
