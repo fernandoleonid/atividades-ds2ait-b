@@ -7,3 +7,4 @@
 5. Galeria imagens (https://picsum.photos/)
 6. Consumo de API - FIGMA
 7. Consumo de API - Repositório
+8. Filmes (Back-end Prof. Marcel)
